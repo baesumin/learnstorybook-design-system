@@ -81,7 +81,6 @@
     "prettier": "^2.8.1"
   },
   "readme": "ERROR: No README data found!",
-  "_id": "learnstorybook-design-system-template@0.1.0",
   "description": "Storybook design systems tutorial",
   "main": "index.js",
   "repository": "https://github.com/baesumin/learnstorybook-design-system.git",
