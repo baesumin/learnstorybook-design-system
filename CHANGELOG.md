@@ -1,3 +1,15 @@
+# v0.1.1 (Thu Jan 05 2023)
+
+#### ⚠️ Pushed to `master`
+
+- delete unused files ([@baesumin](https://github.com/baesumin))
+
+#### Authors: 1
+
+- SM ([@baesumin](https://github.com/baesumin))
+
+---
+
 # v0.1.0 (Thu Jan 05 2023)
 
 - Created first version of the design system, with `Avatar`, `Badge`, `Button`, `Icon` and `Link` components.
