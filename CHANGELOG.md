@@ -1,4 +1,6 @@
-# v0.1.1 (Thu Jan 05 2023)
+# v0.1.0 (Thu Jan 05 2023)
+
+- Created first version of the design system, with `Avatar`, `Badge`, `Button`, `Icon` and `Link` components.
 
 #### ⚠️ Pushed to `master`
 
